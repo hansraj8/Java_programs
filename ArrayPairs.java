@@ -4,6 +4,8 @@ public class ArrayPairs {
     public static void main(String[] args) {
         //ps to find the pair with whom adding sum will be 15
         // [1,3,8,3,11,12,13]
+        //this one is approch one
+        
         int arr[] = {2,8,5,10,13,11,15,7};
 
         Arrays.sort(arr);
